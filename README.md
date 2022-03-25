@@ -3,7 +3,7 @@ Take a moment to learn more about me and what I do...
 
 
 ## About Me
-I'm a first-year Computer Science student at The University of Sheffield. I was a self-taught Front-end Developer before my degree. However, my course has opened me to several opportunities and other programming languages, including Java and Ruby. This has made me realise my interest in other areas of Computer Science. I'm interested in Software engineering and Artificial intelligence, specifically Machine Learning. In the meantime, I'm taking online courses to enhance my current skillset whilst completing my degree. I'm very passionate about my career, and I'm taking advantage of every opportunity to develop my abilities. 
+I'm a first-year Computer Science student at The University of Sheffield. I was a self-taught Front-end Developer before I strated my degree. However, my course has opened me to several opportunities and other programming languages, including Java and Ruby. This has made me realise my interest in other areas of Computer Science. I'm interested in Software engineering and Artificial intelligence, specifically Machine Learning. In the meantime, I'm taking online courses to enhance my current skillset whilst completing my degree. I'm very passionate about my career, and I'm taking advantage of every opportunity to develop my abilities. 
 
 ## Programming Skills
 - **Html5** (3 years experience) 
