@@ -21,7 +21,7 @@ I actively use the following tools for development
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
 [<img align="left" alt="RubyMine" width="35px" src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" />][rubymine]
 [<img align="left" alt="IntelliJ" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
-<img align="left" alt="Eclipse" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
+[<img align="left" alt="Eclipse" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />][eclipse]
 [<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="Github" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 <img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -45,6 +45,7 @@ I work with the following design tools
 <!--LINKS-->
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://www.jetbrains.com/help/idea/discover-intellij-idea.html
+[eclipse]: https://www.eclipse.org/ide/
 [rubymine]: https://www.jetbrains.com/ruby/features/
 [git]: https://git-scm.com
 [github]: https://github.com
