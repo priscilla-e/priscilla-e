@@ -56,5 +56,5 @@ I work with the following design tools
 [illustrator]: https://www.adobe.com/uk/products/illustrator.html
 
 [email]: mailto:priscillaemasoga@gmail.com
-[linkedin]: https://www.linkedin.com/in/priscilla-emasoga-211617100
+[linkedin]: https://www.linkedin.com/in/priscilla-emasoga
 
