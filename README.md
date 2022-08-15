@@ -6,7 +6,7 @@ class Priscilla {
   // languages & tools i've worked with and actively use
   languages = ['JavaScript ES6+', 'Ruby', 'Java', 'HTML', 'CSS'];
   frameworks = ['Vue.js', 'Rails', 'Bootstrap'];
-  ibraries = ['Vuex', 'Sinatra'];
+  libraries = ['Vuex', 'Sinatra'];
   tools = ['Firebase', 'Git'];
   designTools = ['Figma', 'Adobe Photoshop'];
   sideProjects = {
