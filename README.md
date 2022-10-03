@@ -10,6 +10,7 @@ class Priscilla {
   tools = ['Git', 'SQLite','Firebase'];
   designTools = ['Figma', 'Adobe Photoshop'];
   sideProjects = {
+    'Wordtionary': 'https://wordtionary.cilla.dev',
     'Bubble POP': 'https://bubblepop.cilla.dev',
     'Hire A Dev': 'https://hireadev.cilla.dev',
   };
