@@ -5,7 +5,7 @@ Take a moment to learn more about me and what I do...
 class Priscilla {
   languages = ['JavaScript ES6+', 'Python', 'Java', 'Ruby', 'HTML', 'CSS', 'Haskell'];
   frameworks = ['Vue.js', 'Flask', 'Ruby on Rails', 'Bootstrap'];
-  databases = ['SQLite', 'MySQL', MongoDB];
+  databases = ['SQLite', 'MySQL', 'MongoDB'];
   tools = ['Git', 'Firebase'];
   designTools = ['Figma', 'Adobe Photoshop'];
   personalProjects = {
