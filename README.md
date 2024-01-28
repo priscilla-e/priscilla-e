@@ -10,10 +10,5 @@ class Priscilla {
   databases = ['Postgresql', 'MySQL', 'MongoDB', 'SQLite'];
   tools = ['Git', 'Firebase'];
   designTools = ['Figma', 'Photoshop', 'Illustrator'];
-  personalProjects = {
-    'Wordtionary': 'https://wordtionary.cilla.dev',
-    'Bubble POP': 'https://bubblepop.cilla.dev',
-    'Hire A Dev': 'https://hireadev.cilla.dev',
-  };
 }
 ```
