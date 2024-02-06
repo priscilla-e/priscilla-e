@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Priscilla 👩🏾‍💻
 
-I'm a software engineer driven by a passion for technology and its potential to solve complex real-world problems. I'm currently pursuing a BSc in Computer Science at the University of Sheffield, and have a keen interest in software development, specifically software systems design and full-stack development. 
+I'm a software engineer who is driven by a passion for technology and its potential to solve complex real-world problems. I'm currently pursuing a BSc in Computer Science at the University of Sheffield, and have a keen interest in software development, specifically software systems design and full-stack development. 
 
 As someone who is mostly self-taught, I go beyond my coursework and professional experience by dedicating my time to building personal projects using various technologies and enhancing my skills from online tutorials. Feel free to browse through my projects, and don't hesitate to send me an email if you're interested in collaborating on a project. :)
 
