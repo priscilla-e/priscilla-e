@@ -6,7 +6,6 @@ As someone who is mostly self-taught, I go beyond my coursework and professional
 
 ## 🌎 Get in touch:
 
-* [Email](mailto:priscillaemasoga@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/priscilla-emasoga/)
 * [Instagram](https://www.instagram.com/cilla.dev/)
 * [My Portfolio Website](https://priscillaemasoga.com)
