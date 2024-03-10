@@ -12,7 +12,7 @@ As someone who is mostly self-taught, I go beyond my coursework and professional
 
 
 
-## 💼 TechStack 
+## 💼 Tech Skills 
 
 **Backend Development:** `Python` `Java` `TypeScript` `JavaScript` `Ruby` `Flask` `FastAPI`  `Ruby on Rails` 
 
