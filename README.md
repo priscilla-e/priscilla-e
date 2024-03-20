@@ -20,9 +20,11 @@ As someone who is mostly self-taught, I go beyond my coursework and professional
 
 **Database Management:** `MySQL` `MongoDB` `SQLite` `PostgreSQL` 
 
+**Testing Libraries:** `Cypress` `Jest`
+
 **DevOps:** `Jenkins` `Grafana` `SonarQube` `Docker` `GitHub` `Gitlab` `Jira`
 
-**Design and Prototyping:** `Figma` `Photoshop` `Illustrator`
+**Prototyping:** `Figma` `Photoshop` `Illustrator`
 
 --
 **Currently learning:**
